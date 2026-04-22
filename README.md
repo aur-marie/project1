@@ -1,4 +1,5 @@
 JAVA SPRING PROJECT:
+
 FIRST PROJECT JAVA SPRING A beginner Spring Boot web application built with Java and Thymeleaf, developed as part of coursework at Vistula University.
 
 PROJECT OVERVIEW This project demonstrates the basics of building a web application using Spring Boot. It includes a simple controller that handles HTTP GET requests and renders dynamic HTML pages using the Thymeleaf templating engine.
