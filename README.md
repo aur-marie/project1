@@ -74,6 +74,9 @@ http://localhost:8080/greeting?name=Vistula
 
 Displays: Hello, Vistula!
 
+<img width="1903" height="949" alt="image" src="https://github.com/user-attachments/assets/4a350b7e-7a4d-4349-b25a-095264a3a484" />
+
+
 TECHNOLOGIES USED
 
 Java: Core programming language
