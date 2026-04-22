@@ -1,10 +1,11 @@
-JAVA SPRING PROJECT:
+# JAVA SPRING PROJECT:
 
 FIRST PROJECT JAVA SPRING A beginner Spring Boot web application built with Java and Thymeleaf, developed as part of coursework at Vistula University.
 
-PROJECT OVERVIEW This project demonstrates the basics of building a web application using Spring Boot. It includes a simple controller that handles HTTP GET requests and renders dynamic HTML pages using the Thymeleaf templating engine.
+## PROJECT OVERVIEW 
+This project demonstrates the basics of building a web application using Spring Boot. It includes a simple controller that handles HTTP GET requests and renders dynamic HTML pages using the Thymeleaf templating engine.
 
-PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
 first-project-java-spring/
 
@@ -30,9 +31,7 @@ first-project-java-spring/
 
 └── README.md
 
-GETTING STARTED
-
-PREREQUISITES
+## PREREQUISITES
 
 Java 25
 
@@ -40,35 +39,35 @@ Maven
 
 An IDE used is IntelliJ IDEA
 
-RUNNING THE APPLICATION
+## RUNNING THE APPLICATION
 
-Clone the repository:
+# Clone the repository:
 
 bash git clone
 
 cd first-project-java-spring
 
-Build and run using Maven:
+# Build and run using Maven:
 
 bash mvn spring-boot:run
 
-Open your browser and navigate to:
+# Open your browser and navigate to:
 
 http://localhost:8080/
 
-Endpoints
+## Endpoints
 
 MethodURLDescriptionGET/Returns a plain text hello messageGET/greetingRenders a greeting page with an optional name parameter
 
-EXAMPLE USAGE
+## EXAMPLE USAGE
 
-Default greeting:
+# Default greeting:
 
 http://localhost:8080/greeting
 
-Displays: Hello, World!
+# Displays: Hello, World!
 
-Custom greeting:
+# Custom greeting:
 
 http://localhost:8080/greeting?name=Vistula
 
@@ -77,7 +76,7 @@ Displays: Hello, Vistula!
 <img width="1903" height="949" alt="image" src="https://github.com/user-attachments/assets/4a350b7e-7a4d-4349-b25a-095264a3a484" />
 
 
-TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 Java: Core programming language
 
@@ -89,7 +88,7 @@ Thymeleaf : Server-side HTML templating engine
 
 Maven : Build and dependency management
 
-KEY FILES:
+## KEY FILES:
 
 FirstProjectJavaSpringApplication.java
 
