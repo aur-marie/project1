@@ -61,13 +61,13 @@ MethodURLDescriptionGET/Returns a plain text hello messageGET/greetingRenders a 
 
 ## EXAMPLE USAGE
 
-# Default greeting:
+Default greeting:
 
 http://localhost:8080/greeting
 
-# Displays: Hello, World!
+ Displays: Hello, World!
 
-# Custom greeting:
+ Custom greeting:
 
 http://localhost:8080/greeting?name=Vistula
 
